@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgb(143, 47, 47);
+}
+.logo{
+    background-color: slategray;
+    color: maroon;
+    text-align: center;
+    height: 100px;
+    font-size: 100px;
+    word-spacing: 300px;
+}
+.header_bar{
+    background-color: olive;
+    color: rgb(87, 56, 0);
+    text-align: center;
+    height: 100px;
+    font-size: 100px;
+    margin-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    
+}
+.feature{
+    background-color: plum;
+    color: rgb(6, 44, 25);
+    text-align: center;
+    height: 250px;
+    font-size: 250px;
+    margin-top: 10px;
+}
+.column{
+    overflow: hidden;
+    margin-top: 20px;
+    background-color: rgb(116, 116, 82);
+}
+.column_one{
+    background-color: blanchedalmond;
+    color: firebrick;
+    text-align: center;
+    height: 400px;
+    width: 31%;
+    font-size: 110px;
+    float: left;
+    margin-left: 1.5%;
+}
+.column_two{
+    background-color: rgb(236, 208, 92);
+    color: indigo;
+    text-align: center;
+    height: 400px;
+    width: 31%;
+    font-size: 110px;
+    float: left;
+    margin-left: 2%;
+}
+.column_three{
+    background-color: darkseagreen;
+    color: midnightblue;
+    text-align: center;
+    height: 400px;
+    width: 31%;
+    font-size: 110px;
+    float: left;
+    margin-left: 2%;
+}
+.footer{
+    background-color: slategray;
+    color: rgb(170, 32, 8);
+    text-align: center;
+    height: 100px;
+    font-size: 100px;
+    margin-top: 20px;
+}
